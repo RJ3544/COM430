@@ -21,6 +21,7 @@ from posixpath import split
 #import BPEWAD_Modules.bp_math as bpm
 
 #Import built-in sqlite library
+#Refer to https://docs.python.org/3/library/sqlite3.html for documentation
 import sqlite3
 
 # define the class
