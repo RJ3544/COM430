@@ -19,6 +19,8 @@
 # import custom module from BPEWAD_Modules Package
 from posixpath import split
 #import BPEWAD_Modules.bp_math as bpm
+
+#Import built-in sqlite library
 import sqlite3
 
 # define the class
